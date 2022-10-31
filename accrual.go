@@ -14,6 +14,10 @@ func init() {
 	modules.Register("k6/x/accrual", new(Accrual))
 }
 
+var (
+	_ modules.Module = &Accrual{}
+)
+
 var src = rand.NewSource(time.Now().UnixNano())
 var count uint32
 
