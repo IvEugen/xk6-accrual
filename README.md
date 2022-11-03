@@ -211,6 +211,8 @@ c:\golang\github.com\etitovets\diploma_team\internal\accrual\storage\addgoods.go
  Proc: Xeon E5-2666 v3 @3,5GHz (10 ядер/20 потоков)<br>
  RAM: DDR4 32Gb (4х канальный режим)<br>
  SSD: m2 PCI-E 512Gb<br>
- 
- 
+ <br>
+<img align="right" src="https://user-images.githubusercontent.com/96039786/199756704-cb7be933-a47c-4e03-9fe9-c9d08601dadf.png" />
+
+
  <img align="right" src="https://user-images.githubusercontent.com/96039786/199574475-0363b2ec-8da8-4b5c-956a-6da14e65a496.gif" height="200"/>
